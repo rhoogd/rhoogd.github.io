@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rhoogd.github.io/wMl/sitemap.wMl.gz
